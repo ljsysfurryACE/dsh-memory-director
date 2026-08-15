@@ -1,3 +1,5 @@
+[![Awesome DSH Plugin](https://awesome-dsh-plugin.com/badge.svg)](https://awesome-dsh-plugin.com)
+
 # dsh-memory-director
 
 **MemoryDirector 插件** —— 给 DeepSeek Harness 加"长期记忆"能力。
