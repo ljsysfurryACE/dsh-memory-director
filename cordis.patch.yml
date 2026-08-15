@@ -1,0 +1,11 @@
+- insert:
+    - id: memory-director
+      name: '@agentframe/dsh-memory-director'
+      config:
+        provider: deepseek-official
+        model: deepseek-v4-flash
+        maxTokens: 256
+        dedupThreshold: 0.8
+        forgetThreshold: 0.1
+        storePath: ~/.dsh/memory.json
+        auto: true
